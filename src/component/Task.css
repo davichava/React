@@ -1,0 +1,9 @@
+.red {
+    background-color: red;
+    font-size: 18px;
+    background: '#ea2027';
+    color: '#fff';
+    border: 'none';
+    padding: '10px 15px';
+    border-radius: 50%;
+}
